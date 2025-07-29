@@ -1,5 +1,7 @@
 # Diagnosis_of_COVID_19
 
+Mes codes de suivi des tuto de la chaine Machine Learnia :https://www.youtube.com/c/MachineLearnia
+
 # 📊 Analyse Exploratoire des Données (Exploratory Data Analysis)
 
 ## 🎯 Objectif
